@@ -129,7 +129,8 @@ a { text-decoration: none; }
 
 li { list-style: none; }
 
-img, ion-icon, a, button, time, span { display: block; }
+/* img, ion-icon, a, button, time, span { display: block; } */
+img, ion-icon, a, button, time, span { display: inline; }
 
 button {
   font: inherit;
@@ -504,7 +505,7 @@ main {
   line-height: 1.6;
 }
 
-.about-text p { margin-bottom: 15px; }
+/* .about-text p { margin-bottom: 15px; } */
 
 
 
